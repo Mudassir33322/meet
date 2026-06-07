@@ -1,0 +1,6 @@
+{
+  "name": "Pixgenix Agent",
+  "description": "An interactive, corporate-grade AI Voice Call Agent and Lead Onboarding CRM. Simulates and executes real-time Urdu/Roman Urdu, English, Spanish, French, and Arabic voice onboarding, project discovery, and live PDF qualification report compiles.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
